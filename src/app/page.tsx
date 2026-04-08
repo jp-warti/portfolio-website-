@@ -49,7 +49,7 @@ export default function Home() {
           </div>
           <div className="flex-shrink-0">
             <Image
-              src="/profile-raw.jpg"
+              src="/profile.jpg"
               alt={profile.name}
               width={280}
               height={280}

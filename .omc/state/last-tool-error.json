@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git remote set-url origin git@github.com:jp-warti/portfolio-website-.git && git push -u origin main 2>&1\",\"timeout\":30000,\"description\":\"Push via SSH\"}",
+  "error": "Exit code 128\nHost key verification failed.\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n[rerun: b50]",
+  "timestamp": "2026-04-08T13:38:07.540Z",
+  "retry_count": 1
+}
